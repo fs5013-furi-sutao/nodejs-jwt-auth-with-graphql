@@ -5,7 +5,7 @@
 ただし、roles の管理は実装していない
 
 JWT Authentication Node.js Tutorial with GraphQL and React  
-https://www.youtube.com/watch?v=25GS0MLT8JU
+https://youtu.be/25GS0MLT8JU
 
 上記チュートリアルのリポジトリ
 
